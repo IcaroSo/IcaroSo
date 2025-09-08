@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo ao meu perfil do GitHub!
+
+Meu nome é Ícaro de Sousa Rodrigues e sou apaixonado por tecnologia e desenvolvimento de software. 🚀  
+Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos nas áreas de **Java, C#, Python, JavaScript, Spring, .NET, Docker** e muito mais.  
+
+Estou sempre em busca de aprender novas tecnologias, aplicar boas práticas de desenvolvimento e compartilhar conhecimento.  
 
 <div>
   <a href="https://github.com/IcaroSo">
