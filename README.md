@@ -1,7 +1,7 @@
 # 👨‍💻 Ícaro Sousa
 
 Sou **Engenheiro de Software em formação** e apaixonado por tecnologia e desenvolvimento de software.   
-Aqui você encontrará alguns dos meus projetos, estudos e experimentos nas áreas de **Java, C#, Python, JavaScript, Spring, .NET, Docker** e muito mais.  
+Aqui você encontrará alguns dos meus projetos, estudos e experimentos nas áreas de **Java, C#, JavaScript, Spring, .NET, Docker** e muito mais.  
 
 Sempre busco aprender novas tecnologias, aplicar boas práticas de desenvolvimento e compartilhar conhecimento.  
 Gosto de trabalhar em equipe, sou adaptável e tenho facilidade em colaborar para alcançar resultados.  
@@ -16,8 +16,6 @@ Gosto de trabalhar em equipe, sou adaptável e tenho facilidade em colaborar par
 ---
 
 ### 🛠️ Minhas Habilidades
-
-
   
   #### 🔹 Linguagens
   [![Java](https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=F89820)](#)
