@@ -17,7 +17,6 @@ Gosto de trabalhar em equipe, sou adaptável e tenho facilidade em colaborar par
 
 ### 🛠️ Minhas Habilidades
 
-<img align="right" width="250" height="250" src="https://media.tenor.com/qY6qYPOGX8EAAAAM/stray-programming.gif"> 
 
   
   #### 🔹 Linguagens
